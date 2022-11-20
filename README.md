@@ -1,5 +1,7 @@
 # jetson_AI
 
+# thumbs_up/thumbs_down
+
 1)주피터랩을 통해 nvidia AI 프로그램을 실습하는 곳에 들어가면 먼저 thumbs up과 thumbs down을 학습시키면서 machine learning에 대해 감을 잡을 수 있게 된다.
 
 2)순서대로 상자를 누르고 RUN 버튼을 누르면서 AI 알고리즘을 만들어나간다.
